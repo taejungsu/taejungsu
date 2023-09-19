@@ -89,7 +89,9 @@ Here are some ideas to get you started:
 
 ---
 
+### 🤖Online Judge:
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koosaga)](https://solved.ac/koosaga/)  
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
