@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me:
-
+🎓 Department of Artificial Intelligence & Software at Sunmoon University (2018.03 ~ 2025.02)
 <!-- I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Japan.
 
 - :telescope: I’m working as a Software Engineer and contributing to mainly backend (sometimes frontend too) for building web applications.
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+### 👨🏻‍💻 My Stats
 
 [![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=taejungsu&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
