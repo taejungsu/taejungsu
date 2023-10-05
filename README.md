@@ -92,6 +92,6 @@ Here are some ideas to get you started:
 ### 🤖Online Judge:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowjdtn)](https://solved.ac/xowjdtn/)  
-
+![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
