@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
 <!--
 **taejungsu/taejungsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -92,6 +92,5 @@ Here are some ideas to get you started:
 ### 🤖Online Judge:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowjdtn)](https://solved.ac/xowjdtn/)  
-![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
