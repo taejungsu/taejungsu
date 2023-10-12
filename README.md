@@ -1,4 +1,4 @@
-![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!-- ### Hi there 👋 -->
 ![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
 <p align="center">
