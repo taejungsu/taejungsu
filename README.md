@@ -1,11 +1,8 @@
-
-
-<!-- ### Hi there 👋 -->
-<a href="https://opgc.me/#/users/taejungsu" target="_blank"><img src="https://api.opgc.me/githubs/users/taejungsu/tag/?theme=basic" /></a>
-![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
+![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey) 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
+<!-- ### Hi there 👋 -->
 <!--
 **taejungsu/taejungsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
