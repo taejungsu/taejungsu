@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ### Hi there 👋 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
