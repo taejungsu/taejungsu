@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!-- ### Hi there 👋 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
