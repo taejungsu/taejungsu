@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🤖Online Judge:
-
+<a href="https://opgc.me/#/users/taejungsu" target="_blank"><img src="https://api.opgc.me/githubs/users/taejungsu/tag/?theme=basic" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowjdtn)](https://solved.ac/xowjdtn/)  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
