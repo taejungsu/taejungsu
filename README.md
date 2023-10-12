@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/taejungsu/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID&row=1)](https://github.com/taejungsu/github-profile-trophy)
+
+
 <!-- ### Hi there 👋 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=본인ID)](https://github.com/taejungsu/github-profile-trophy)
+
 ![Profile views](https://komarev.com/ghpvc/?username=taejungsu&color=lightgrey)
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨🏻‍💻 My Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/taejungsu/)
 
 [![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=taejungsu&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
