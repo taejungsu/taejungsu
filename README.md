@@ -10,7 +10,7 @@
 ](https://github.com/taejungsu)
 [![]()]()
 
-**![](./profile-3d-contrib/profile-night-rainbow.svg)**
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- ### Hi there 👋 -->
 <!--
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />**
+
   
   <!-- <div id="badges">
     <a href="https://twitter.com/seiyasm18">
@@ -40,7 +39,8 @@ Here are some ideas to get you started:
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=seiya303&style=flat-square&color=blue" alt=""/>
-  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 </div> -->
 
 ---
