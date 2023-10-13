@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-
+ <img src="https://komarev.com/ghpvc/?username=seiya303&style=flat-square&color=blue" alt=""/>
+  <div id="header">
 
 
 
@@ -28,9 +29,8 @@ Here are some ideas to get you started:
   
  
   
-  <img src="https://komarev.com/ghpvc/?username=seiya303&style=flat-square&color=blue" alt=""/>
-  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+
+  <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 </div> -->
 
 ---
