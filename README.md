@@ -5,7 +5,7 @@
 </p>
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <!-- ### Hi there 👋 -->
 <!--
@@ -95,6 +95,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taejungsu&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejungsu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
