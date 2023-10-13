@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)-->
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=TAEJUNGSU🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 </p>
@@ -26,14 +26,7 @@ Here are some ideas to get you started:
 -->
 
   
-  <!-- <div id="badges">
-    <a href="https://twitter.com/seiyasm18">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/seiya-umemoto-bb71a41a9/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+ 
   
   <img src="https://komarev.com/ghpvc/?username=seiya303&style=flat-square&color=blue" alt=""/>
   <div id="header" align="center">
