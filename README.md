@@ -92,7 +92,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejungsu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![DaeyangKim GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dae-yangKim&theme=react-dark)](https://github.com/taejungsu)
 
 
 
@@ -102,6 +101,6 @@ Here are some ideas to get you started:
 <a href="https://opgc.me/#/users/taejungsu" target="_blank"><img src="https://api.opgc.me/githubs/users/taejungsu/tag/?theme=basic" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowjdtn)](https://solved.ac/xowjdtn/)  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
+[![Taejungsu GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dae-yangKim&theme=react-dark)](https://github.com/taejungsu)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
