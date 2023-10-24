@@ -92,6 +92,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejungsu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![DaeyangKim GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dae-yangKim&theme=react-dark)](https://github.com/taejungsu)
+
+
 
 ---
 
