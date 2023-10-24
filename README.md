@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=000000&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+my+world!👋)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23AFB2AD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B0B4AD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[ ![miwashutaro0611](https://komarev.com/ghpvc/?username=taejungsu)](https://github.com/taejungsu/)
 ![](https://komarev.com/ghpvc/?username=taejungsu-github-username&color=lightgrey)
 <!-- ### Hi there 🐣👋 -->
 <!--
