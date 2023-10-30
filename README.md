@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me:
-🎓 Department of Artificial Intelligence & Software at Sunmoon University (2018.03 ~ 2025.02)
+🎓 B.S:Department of Artificial Intelligence & Software at Sunmoon University (2018.03 ~ 2025.02)
 <!-- I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Japan.
 
 - :telescope: I’m working as a Software Engineer and contributing to mainly backend (sometimes frontend too) for building web applications.
