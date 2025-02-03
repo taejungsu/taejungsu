@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me:
-🎓 B.S:Department of Artificial Intelligence & Software at Sunmoon University (2018.03 ~ )
+🎓 B.S:Department of Artificial Intelligence & Software at Sunmoon University (2018.03 ~ 2025.02)
 <!-- I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Japan.
 
 - :telescope: I’m working as a Software Engineer and contributing to mainly backend (sometimes frontend too) for building web applications.
@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="kaggle" alt="kaggle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
