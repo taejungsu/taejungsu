@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ---
 
 ### 👨🏻‍💻 My Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/taejungsu/)
+<!-- BLOG-POST-LIST:END -->[![trophy](https://github-profile-trophy.vercel.app/?username=dkssud8150&theme=flat&column=7)](https://github.com/taejungsu/)
 
 [![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=taejungsu&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
