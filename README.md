@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 | Project Logo | Project Link | Summary |
 | :---: | :---: | :---: |
-| <img src="[https://github.com/Dae-yangKim/SW_Project/assets/102850893/356c0f13-0d83-405e-8e7f-7a8f4d3bdea](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCv5qYO399G-8J66Re3Hc0pXNfis3cO384ag&s)7" width=150 height=150> | [Link](https://github.com/2024-2-JAVA/PBL-Module-2) | This project is a calculator program using Java. |
+| <img src="https://velog.velcdn.com/images/y0ungg/post/8c18f68a-f38a-4eb4-b62a-c74433a3e7d4/image.png" width=150 height=150> | [Link](https://github.com/2024-2-JAVA/PBL-Module-2) | This project is a calculator program using Java. |
 | <img src="https://github.com/Dae-yangKim/SW_Project/assets/102850893/e72d4584-6191-4e61-960a-460c5f8c3460" width=150 height=150> | [Link](https://github.com/taejungsu/bigdata_contest) | This project is provide insight into infectious disease problems through big data analysis |
 | <img src="https://github.com/Dae-yangKim/SW_Project/assets/102850893/b3c83d09-2d37-4f30-a7db-cdd9277e4df5" width=150 height=150> | [Link](https://github.com/taejungsu/SM_Project) | Analyze the traffic data and clustering the traffic accident danger zone based on traffic data insight |
 | <img src="https://github.com/Dae-yangKim/SW_Project/assets/102850893/daad1f16-b5d4-4dce-808f-a7161f1f9dfe" width=150 height=150> | [Link](https://github.com/taejungsu/SW_Project) | Web site development project with coordination recommendation system |
